@@ -1,0 +1,8 @@
+#Ambientes no
+venv
+.venv
+env
+.env
+
+#Basura
+**/__pycache__/
